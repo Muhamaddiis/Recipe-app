@@ -1,4 +1,4 @@
-# BLOG
+# Recipe App
 
 #### By Muhamad Diis
 ##### [Site] (https://muhamaddiis.github.io/Recipe-app/)
